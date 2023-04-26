@@ -1,13 +1,55 @@
 * Celpip対策
 ** Task1
 *** 対策
-*** CELPIP-General Practice Tests, Set 4
+*** CELPIP-General Practice Tests, Set 4, Practice Test 2
 **** Test 1
 ***** 修正答案
-There are two grocery stores in our town. The first one is Target, and the second one is Sakura Mart. I suggest you go to the Target. The main reason is that you can buy tasty and inexpensive foods there. They are not only delicious but also healthy because most of them are organic foods.
+There are two grocery stores in our town. The first one is Target, and the second one is Sakura Mart.
+I suggest you go to the Target. The main reason is that you can buy tasty and inexpensive foods there.
+They are not only delicious but also healthy because most of them are organic foods.
 There are many sellers, and they are helpful. They are willing to help you if you cannot find what you want to buy.
 If you live near the Target, you should go there.
 On the other hand, Sakura Mart is a small grocery store.
 The prices of Sakura Mart's products are comparatively higher than the prices of Target.
 The staff members look busy, and you cannot expect them to help you.
 They don't arrange products well. It takes time to find the products that you are looking for.
+** Task2
+*** 対策
+- 問いに応えていない回答にならないように、回答の内容ではなく回答すべき項目をメモに書きだしてはどうか。
+*** CELPIP-General Practice Tests, Set 4, Practice Test 2
+**** 答案
+Now, I will talk about a chat GPT and without is a generative AI,
+and that I can people use it by saying, put typing a text into a browser and the generated
+AI returns a text and to respond. What I you are the people, right? And I changed my life.
+For example, I actually do exercise my English speaking text and skills and writing skills
+by using chat GPT and without asking other in English speakers to correct,
+my English sentences by using this chart GPT I can Efficiency, polish my English.
+**** 批評
+Chat GPT以前の生活が不明なので、生活をどのように変えたか分かりにくい。以前と以後の対比を明確にした回答のようがいい。
+
+**** 修正答案
+Tell me the grammatical errors in the text.
+I will talk about Chat GPT. It is generative AI.
+People type text on a web browser, and Chat GPT responds.
+It has changed my life.
+I use Chat GPT to correct some of my English texts.
+Before I used Chat GPT, I asked colleagues or English teachers to correct some of my texts.
+It was a time-consuming task.
+After I use Chat GPT, I write a text on a web browser and have it corrected.
+I can save time by using Chat GPT.
+Apart from that, I use Chat GPT instead of Google to find the information I need.
+Chat GPT sometimes can answer questions that I could not solve using Google.
+
+** Task3
+*** CELPIP-General Practice Tests, Set 4, Practice Test 2
+**** 答案
+Now, I see a zoo, and In the NC 3 door pins in a pool and three star tattoos, and stuff dressed in red touching.
+Try to touch the nose over the two dolphins. And at background, I see a bridge and there are many and visitors working there.
+And at now fog round left side. I'll keep dressed in yellow is trying to touch doorfin in other.
+Dropping is different from the art, the two doors that I mentioned, and what, right side. About is on the man, dressing it.
+**** 批評
+***** 模範回答にある表現
+- One with blond hair. 金髪がいる。
+**** 単語
+- 
+
