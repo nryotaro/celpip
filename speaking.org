@@ -41,6 +41,8 @@ Apart from that, I use Chat GPT instead of Google to find the information I need
 Chat GPT sometimes can answer questions that I could not solve using Google.
 
 ** Task3
+*** 対策
+- 右側、左側をright,left-hand side of the picutureと表現する。handで修飾するとrightを「正しい」と誤解されない。
 *** CELPIP-General Practice Tests, Set 4, Practice Test 2
 **** 答案
 Now, I see a zoo, and In the NC 3 door pins in a pool and three star tattoos, and stuff dressed in red touching.
@@ -50,6 +52,47 @@ Dropping is different from the art, the two doors that I mentioned, and what, ri
 **** 批評
 ***** 模範回答にある表現
 - One with blond hair. 金髪がいる。
-**** 単語
-- 
-
+**** 修正答案
+I see a zoo.
+There are three dolphins in the pool.
+There are also three staff members dressed in red on the right-hand side of the picture.
+Two of them are raising their hands, and two dolphins are approaching them.
+There is a blackbird perched on the shoulder of one of the staff members.
+A dolphin is swimming near a child dressed in yellow on the left-hand side of the picture.
+In the background, there is a bridge and visitors are walking on it.
+** Task4
+*** 対策
+*** CELPIP-General Practice Tests, Set 4, Practice Test 2
+**** 回答
+I think a bird on the shoulder of a staffed dressed in red is going to fly and I'll dolphin.
+That is trying to touch the hand of the man with a yellow color. Here is going to touch and she's hand.
+And a dolphin is a crossing to map cheat dressed in yellow.
+We are touched the hand of the kid and our, I see a A monkey character at the bree on the bridge.
+And we he's holding a balloons and he will give those bearings to kids crossing to him and other visitors are crossing the
+**** 修正答案
+I think the two dolphins will swim in the pool after they touch the hands of the two staff members.
+The bird on the shoulder of another staff member will fly away.
+The child on the left-hand side of the picture will fall into the pool, and then his mother will help him.
+The dolphin that is near the child will be surprised by the fall and swim away.
+The staff member who has balloons will give them to the two children who are near him.
+A man who is holding a dolphin balloon will give the balloon to a child who is raising his hand.
+** Task5
+*** 対策
+- 選択をselectionではなく、my preferenceで表現する。
+*** CELPIP-General Practice Tests, Set 4, Practice Test 2
+**** 回答
+I think the model single office that I chose is prefer to original the original single office you selected because my my selection the most modern single office is the rent of this. It is cheaper than yours and there is no one a software and coffee tables. We can use it in them.00:31
+When I we hold a meeting and but you are we cannot do. Hold the meeting with by far with furniture in if I be select your selections. And now, there are shares and storage spaces. We can put documents there. And,
+**** 修正答案
+I prefer the Modern Single Office to the Original Single Office.
+I have a couple of reasons.
+First, the rent of the Modern Single Office is lower by $100 than that of the Original Single Office.
+We can save money if we choose my preference instead.
+Second, there is a couch and a table in the Modern Single Office.
+We can hold a meeting on them.
+If we choose the Original Single Office, we would have to spend money on purchasing furniture.
+Third, there is a shelf in the Modern Single Office.
+As we have a lot of documents, we have to keep them in order.
+We can use the shelf to place the documents.
+Fourth, there is a workstation. It looks comfortable. I would be able to concentrate on my work if I use it.
+There are no grammatical errors in the text. All the sentences are grammatically correct.
