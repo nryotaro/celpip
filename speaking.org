@@ -1,7 +1,7 @@
 * Celpip対策
 ** Task1
 *** 対策
-*** CELPIP-General Practice Tests, Set 4, Practice Test 2
+*** CELPIP-General Practice Tests, Set 4, Practice Test 1
 **** Test 1
 ***** 修正答案
 There are two grocery stores in our town. The first one is Target, and the second one is Sakura Mart.
@@ -16,7 +16,7 @@ They don't arrange products well. It takes time to find the products that you ar
 ** Task2
 *** 対策
 - 問いに応えていない回答にならないように、回答の内容ではなく回答すべき項目をメモに書きだしてはどうか。
-*** CELPIP-General Practice Tests, Set 4, Practice Test 2
+*** CELPIP-General Practice Tests, Set 4, Practice Test 1
 **** 答案
 Now, I will talk about a chat GPT and without is a generative AI,
 and that I can people use it by saying, put typing a text into a browser and the generated
@@ -43,7 +43,7 @@ Chat GPT sometimes can answer questions that I could not solve using Google.
 ** Task3
 *** 対策
 - 右側、左側をright,left-hand side of the picutureと表現する。handで修飾するとrightを「正しい」と誤解されない。
-*** CELPIP-General Practice Tests, Set 4, Practice Test 2
+*** CELPIP-General Practice Tests, Set 4, Practice Test 1
 **** 答案
 Now, I see a zoo, and In the NC 3 door pins in a pool and three star tattoos, and stuff dressed in red touching.
 Try to touch the nose over the two dolphins. And at background, I see a bridge and there are many and visitors working there.
@@ -62,7 +62,7 @@ A dolphin is swimming near a child dressed in yellow on the left-hand side of th
 In the background, there is a bridge and visitors are walking on it.
 ** Task4
 *** 対策
-*** CELPIP-General Practice Tests, Set 4, Practice Test 2
+*** CELPIP-General Practice Tests, Set 4, Practice Test 1
 **** 回答
 I think a bird on the shoulder of a staffed dressed in red is going to fly and I'll dolphin.
 That is trying to touch the hand of the man with a yellow color. Here is going to touch and she's hand.
@@ -79,7 +79,7 @@ A man who is holding a dolphin balloon will give the balloon to a child who is r
 ** Task5
 *** 対策
 - 選択をselectionではなく、my preferenceで表現する。
-*** CELPIP-General Practice Tests, Set 4, Practice Test 2
+*** CELPIP-General Practice Tests, Set 4, Practice Test 1
 **** 回答
 I think the model single office that I chose is prefer to original the original single office you selected because my my selection the most modern single office is the rent of this. It is cheaper than yours and there is no one a software and coffee tables. We can use it in them.00:31
 When I we hold a meeting and but you are we cannot do. Hold the meeting with by far with furniture in if I be select your selections. And now, there are shares and storage spaces. We can put documents there. And,
@@ -96,3 +96,58 @@ As we have a lot of documents, we have to keep them in order.
 We can use the shelf to place the documents.
 Fourth, there is a workstation. It looks comfortable. I would be able to concentrate on my work if I use it.
 There are no grammatical errors in the text. All the sentences are grammatically correct.
+
+** Task6
+*** 対策
+- CELPIP-General Practice Tests, Set 4, Practice Test 1では、校長に話
+  かける言い方ではなく、発表する言い方だった。
+*** CELPIP-General Practice Tests, Set 4, Practice Test 1
+**** 回答
+I will sell, I will choose the first options high the school principal I should, you should, I think you should arrow allow the teams to attend the soccer match and pay. Money to do that. I think it is. This experiment is a good for educations of the, our soccer teams and if they win the soccer match, our, I think there Many and children who are interested in soccer want to attend enter, enter our high school and ultimately we can get our money.
+**** 修正答案
+I think we should allow our soccer team to compete in the national soccer match held in another province.
+
+Here are a couple of reasons.
+First, they can learn new techniques through the match whether they win or lose the match.
+Second, if our team wins the match, our school will become more popular.
+We can expect the number of applications to increase next year.
+If we can't afford the cost, we should ask another sports teams like basketball and tennis to share some of their budgets.
+If they accept the request, we will have the soccer team share some of their budget with them next year.
+** Task7
+*** 対策
+*** CELPIP-General Practice Tests, Set 4, Practice Test 1
+**** 回答
+I think social media should require users to verify their true identity if I've that is because if users can send the message or express opinion without identifying Himself or herself, they can be a very offensive. I think it is not good for their platform and also and the users.00:43
+And so that this is the main reason why they should the platform should ask users to verify their and to identity. And01:01
+I think it is a good for you users to buy and if they express or posting a meaningful message of photograph, I think other people are respect them, so it is worth identifying their names. Oh, for the users too.
+**** 修正答案
+I think social media should require users to verify their real identity.
+
+I have a couple of reasons.
+
+As other people cannot identify them by their names, they may post offensive content.
+If offensive content causes trouble, what they have to do is just create a new account.
+Allowing anonymous users may not benefit social platforms.
+
+Secondly, making users' identities disclosed to public can motivate users to post meaningful content.
+By posting good messages with their own names, they become popular and are recognized.
+Good content can make the platform more popular as well.
+
+Third, users can use others' identities when posting content on social media. If social media doesn't require clarification of user identities, then anyone can use others' identities when posting content on it.
+** Task8
+*** CELPIP-General Practice Tests, Set 4, Practice Test 1
+**** 回答
+Interesting animal by road. This it is the cara of it is a brown. It looks a small thing pig but it is not fat and it is injured. It whereas a white turkey style with his our right hand and there it has a long three and nails for each hand and it has a long ears like peak.00:45
+And there it it's not nose is looks like that of pig too. The color of the eye is a black and it is very small and he's trying to
+**** 修正答案
+I see an unusual animal beside a road.
+It looks like a small, thin pig.
+Its color is pink and it is dirty.
+It is wearing bandage on its right arm.
+It must be injured.
+It has three long nails on each paw.
+It has four nails on each leg.
+It has a long tail.
+Its ears and nose look like those of pigs.
+The color of its eyes is black.
+It is going to eat chips.
