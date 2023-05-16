@@ -1,6 +1,9 @@
 * Celpip対策
 ** Task1
 *** 対策
+- 論理と発音の両方で評価される模様。[[https://secure.paragontesting.ca/InstructionalProducts/PracticeTest5/OPT5/View/61ac8ebf-9983-4f4a-a6a3-0578712bb48e][Set 5, Practice1]]の7-8RESPONSEは発音が明瞭であったが、結婚を祝う発言であり、プロポーズの仕方の回答になっていない。
+  それでも評価は7-8である。
+  
 *** CELPIP-General Practice Tests, Set 4, Practice Test 1
 **** 修正答案
 There are two grocery stores in our town. The first one is Target, and the second one is Sakura Mart.
@@ -23,6 +26,26 @@ Well, I mean part you should do and another part of time job to get money into b
 This is the third options now. I think you should In our new office is near.
 And the big stations. So I think you can use a public tool and plants it.
 Although you have to work a walk to go to our office but it is very inexpensive approach. So I recommend you first options.
+*** CELPIP-General Practice Tests, Set 5, Practice Test 1
+**** 答案
+Ground of, I think you should take her to Our restaurant, and I have a dinner.
+And now give a little wedding ring to how and Propose.
+I think it is a usual but it is a modest way to make success.
+And so I recommend you this approach.
+If you are not interested in this approach,
+you should take trip with her and prepare for some surprise to make her happy and weighing her to marriage.
+Mary with you. This is a second approach. The third is You just, I'll
+You when you if you leave with her and stay home together and ask her to marry you, this is the third approach.
+I can propose. I think the first option is better.
+**** 修正答案
+I think you should take her to a memorable place where you and she have been before.
+You have been dating her for 2years, which is a long time.
+You should make use of the memories you both share and take advantage of the time you have spent together.
+If there is a restaurant that you both visited before, consider taking her there and proposing to her.
+Of course, it is essential to choose a restaurant that she likes.
+You should propose to her after all the dishes have been served except for dessert because food and alcohol can make people feel generous.
+This could increase the chances of her accepting your proposal.
+You should order as many dishes and alcohol as she want, but you should not have them too much to convince her to accept your proposal.
 ** Task2
 *** 対策
 - 問いに応えていない回答にならないように、回答の内容ではなく回答すべき項目をメモに書きだしてはどうか。
@@ -66,6 +89,19 @@ I asked Ikea to deliver the shelf to my apartment by paying an extra cost, and b
 I hadn't assembled furniture until this experience, and didn't have confidence in doing it.
 Thanks to an attached manual, I finally was able to assemble it by myself.
 This is a memorable project because it allowed me to get confidence in assembling furniture.
+*** CELPIP-General Practice Tests, Set 5, Practice Test 1
+**** 答案
+I will talk about a new and kind of food that I have experienced in the United States. And last year, I moved in the United States from Japan. And when I went to groceries, restore, I see many old memes there. And in Japan, IX all had received old memes in the grocery stores.
+So I was very surprised and there are many kinds of old meals. So I asked a grocery store sellers and the best options and I and tried and I was still and poor the milks or heat and cut many various ways to cook.
+**** 修正答案
+Oatmeal is a new kind of food that I tried for the first time.
+I moved to the U.S. from Japan last year.
+When I was in Japan, I hadn't tried oatmeal because there were few grocery stores that sell oatmeal.
+When I went to a grocery store near my apartment in the U.S., I found many types of oatmeal there.
+I asked a seller which product was good for a first-time buyer, and I bought his recommendation.
+I tried it at home, and found it was tasty.
+I buy it once a week and try cooking it in various ways.
+I pour milk over the oatmeal and have it with fruit.
 ** Task3
 *** 対策
 - 右側、左側をright,left-hand side of the picutureと表現する。handで修飾するとrightを「正しい」と誤解されない。
@@ -101,6 +137,21 @@ A girl is entering to a rest room.
 There are two elderly people seated on chairs at left-hand side.
 One is a male and is reading a newspaper.
 The other is a woman who is drinking coffee.
+*** CELPIP-General Practice Tests, Set 5, Practice Test 1
+**** 修正答案
+I see the sea in the picture.
+There is a beach in front of this picture.
+There is a sandcastle with three red flags.
+
+I see a big wave on the right-hand side, and a man dressed in black is riding on the wave.
+He is using a red surfboard.
+I see a brown canoe under the wave. There are three people on the canoe, and they are paddling the canoe.
+
+I see a parachute on the left-hand side that is pulled by a white boat.
+I see three surfboards on the left-hand side.
+The colors are blue, yellow, and white.
+A man dressed in green is on the white one, and he holds a paddle.
+
 ** Task4
 *** 対策
 *** CELPIP-General Practice Tests, Set 4, Practice Test 1
@@ -131,6 +182,14 @@ A girl who is standing near a restroom will enter the room.
 The daughter in cyan who is pulling her mother's hand will find a girl in yellow who is waving one of her hands.
 They will start talking to each other.
 A boyfriend and a girlfriend facing each other, will leave the building.
+*** CELPIP-General Practice Tests, Set 5, Practice Test 1
+**** 修正答案
+I think most of the boats and surfboards will flip, and people on them may fall off into the sea due to the size of the big wave.
+The man dressed in black on the top of the big wave may land unsafely.
+The people on the wooden canoe may be in great danger because they are directly in the path of the wave.
+The wave will destroy the sandcastle on the beach.
+On the other hand, the man dressed in green, who is using a green surfboard, may be able to escape from the wave because he is near the beach.
+Some surfboards on the left-hand side will not flip but will ride the wave , as they are far from its center.
 ** Task5
 *** 対策
 - 選択をselectionではなく、my preferenceで表現する。
@@ -169,6 +228,23 @@ Secondly, employees don't have to pay an extra cost when they use the gift card 
 On the other hand, bungee jumping with the discount coupon still costs $100.
 
 Thirdly, the gift card won't expire. we can use them anytime.
+*** CELPIP-General Practice Tests, Set 5, Practice Test 1
+**** 修正答案
+I think the park is more suitable than the pool.
+I have several reasons.
+
+First, the purpose of this activity is team building, and all the members must enjoy it.
+Some employees don't have swimsuits.
+Moreover, there may be people who cannot swim.
+They would have to buy swimsuits or learn at swim if we choose the pool.
+This doesn't allow people to enjoy team building.
+
+Second, if it rains during the activity, we cannot continue to swim in the pool and have to stop the activity.
+On the other hand, there is shelter in the park. 
+We can continue team building in the shelter even if it rains.
+
+Third, having the activity in the park is cost-effective compared to using the pool.
+We have to pay fees to use the pool.
 ** Task6
 *** 対策
 - CELPIP-General Practice Tests, Set 4, Practice Test 1では、校長に話
@@ -196,6 +272,15 @@ I would like to help him to prevent him from resigning.
 Could you reschedule your moving date to another day so that I can help you?
 If you need an extra cost to reschedule, I'll pay for it.
 I also ask Denny to help you.
+*** CELPIP-General Practice Tests, Set 5, Practice Test 1
+**** 修正答案
+I will choose the second option.
+I'm afraid to say that I can't help you as an account because my company doesn't allow employees to work as accountants for other organizations.
+The policy applies not only to companies but also to non-profit organizations.
+If I violate the policy, I will be fired.
+
+I respect you for working in the organization, and want to help you as much as possible.
+I will look for other accountants who work for different firms, and introduce them to you.
 ** Task7
 *** 対策
 *** CELPIP-General Practice Tests, Set 4, Practice Test 1
