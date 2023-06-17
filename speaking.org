@@ -1,4 +1,31 @@
 * Celpip対策
+** 評価の仕組み
+- 8つのタスクは、1-3, 4,5, 6-8ごとに評価される。
+*** 基準
+**** Content/Coherence
+Number of ideas, Quality of ideas, Examples and supporting details,
+organization of ideasが要点
+
+Number of ideasはアイデアの数を数えているのではない。
+Different ideas, No repetition, Enough idea
+**** Vocabulary
+**** Listenability
+Listenerbilityが一番重要ではない。
+How intelligible and fuent is your speech?である。
+Rhythm, pronouciation, and intonation
+
+No penalty for accent.
+
+Pauses, interjections, and self correction
+
+interjectionsはドッグワード。使いすぎると原点される。
+self correctionは文法上の誤りを自分で訂正すること。やりすぎると減点される。
+
+**** Task Fullfillment
+is tone appropriate?も
+Tone: Politeness.Formal, informalを使いわけられるか。会社、友人との会話
+Length: End a few seconds, Cut of
+
 ** Task1
 *** 対策
 - 論理と発音の両方で評価される模様。[[https://secure.paragontesting.ca/InstructionalProducts/PracticeTest5/OPT5/View/61ac8ebf-9983-4f4a-a6a3-0578712bb48e][Set 5, Practice1]]の7-8RESPONSEは発音が明瞭であったが、結婚を祝う発言であり、プロポーズの仕方の回答になっていない。
